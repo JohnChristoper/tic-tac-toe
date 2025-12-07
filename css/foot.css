@@ -1,0 +1,14 @@
+.foot-container {
+    margin-top: 18px;
+}
+
+.reset-button {
+    width: 90px;
+    height: 40px;
+    border-radius: 25px;
+    border: none;
+    color: white;
+    font-family: 'Fredoka One', sans-serif;
+    background: linear-gradient(135deg, #5126FF, #FF1783);
+    box-shadow: 5px, 5px, 5px, rgb(0, 0, 0);
+}

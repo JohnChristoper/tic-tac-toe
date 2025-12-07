@@ -1,0 +1,40 @@
+body {
+    font-family: 'Fredoka One', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0%;
+    overflow: hidden;
+    width: 100vw;
+    height: 100vh;
+    background-image: url("/assets/images/background.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.game-container {
+    display: flex;
+    justify-content: center; 
+    align-items: center;   
+    flex-direction: column;
+    gap: 0px;
+    width: 600px;
+    height: 500px;
+    padding: 0%;
+    background-color: blueviolet;
+}
+
+@font-face {
+    font-family: 'Fredoka One';
+    src: url("/assets/fonts/Fredoka-VariableFont_wdth,wght.ttf") format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Library_3_am';
+    src: url("/assets/fonts/Library_3_am.otf") format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}

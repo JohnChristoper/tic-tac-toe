@@ -22,7 +22,7 @@
 .two-player-container {
     width: 120px;
     height: 15px;
-    background-image: url("/assets/images/two-player-pic.png");
+    background-image: url("../assets/images/two-player-pic.png");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;

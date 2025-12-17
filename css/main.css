@@ -7,7 +7,7 @@ body {
     overflow: hidden;
     width: 100vw;
     height: 100vh;
-    background-image: url("/assets/images/background.jpg");
+    background-image: url("../assets/images/background.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -27,14 +27,14 @@ body {
 
 @font-face {
     font-family: 'Fredoka One';
-    src: url("/assets/fonts/Fredoka-VariableFont_wdth,wght.ttf") format('truetype');
+    src: url("../assets/fonts/Fredoka-VariableFont_wdth,wght.ttf") format('truetype');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Library_3_am';
-    src: url("/assets/fonts/Library_3_am.otf") format('opentype');
+    src: url("../assets/fonts/Library_3_am.otf") format('opentype');
     font-weight: normal;
     font-style: normal;
 }
